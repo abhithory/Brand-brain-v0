@@ -3,5 +3,6 @@
 video-transcripts.json
 1_pods_with_stats_embeddings/c50ec268-ca54-4059-b87b-a7e882ac9c74/data_level0.bin
 *.bin
+*.env
 
 
