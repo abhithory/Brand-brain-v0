@@ -1,0 +1,63 @@
+{
+  "total_episodes": 5,
+  "episodes_with_ads": 3,
+  "percentage_episodes_with_ads": 60.0,
+  "total_sponsor_ads": 15,
+  "total_ad_time": 1158.8010000000004,
+  "average_sponsor_length": 77.25340000000003,
+  "average_ad_percentage_per_episode": 2.6025159474642967,
+  "avg_episode_ad_count": 3.0,
+  "sponsor_time_map": {
+    "davidprotein.com": 140.68,
+    "eightsleep.com": 82.16100000000006,
+    "drinkag1.com": 235.76099999999997,
+    "roka.com": 98.23999999999978,
+    "functionhealth.com": 110.48000000000047,
+    "helixsleep.com": 63.84000000000003,
+    "betterhelp.com": 75.84000000000003,
+    "fromourplace.com": 93.67900000000009,
+    "drinklmnt.com": 61.11999999999989,
+    "joincarbon.com": 120.0,
+    "wealthfront.com": 77.0
+  },
+  "sponsor_frequency_map": {
+    "davidprotein.com": 2,
+    "eightsleep.com": 1,
+    "drinkag1.com": 3,
+    "roka.com": 1,
+    "functionhealth.com": 2,
+    "helixsleep.com": 1,
+    "betterhelp.com": 1,
+    "fromourplace.com": 1,
+    "drinklmnt.com": 1,
+    "joincarbon.com": 1,
+    "wealthfront.com": 1
+  },
+  "average_brand_repeat_rate": 1.3636363636363635,
+  "sorted_brands_by_frequency": [
+    "drinkag1.com",
+    "davidprotein.com",
+    "functionhealth.com",
+    "eightsleep.com",
+    "roka.com",
+    "helixsleep.com",
+    "betterhelp.com",
+    "fromourplace.com",
+    "drinklmnt.com",
+    "joincarbon.com",
+    "wealthfront.com"
+  ],
+  "sorted_brands_by_ad_time": [
+    "drinkag1.com",
+    "davidprotein.com",
+    "joincarbon.com",
+    "functionhealth.com",
+    "roka.com",
+    "fromourplace.com",
+    "eightsleep.com",
+    "wealthfront.com",
+    "betterhelp.com",
+    "helixsleep.com",
+    "drinklmnt.com"
+  ]
+}

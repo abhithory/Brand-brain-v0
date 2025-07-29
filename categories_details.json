@@ -1,0 +1,312 @@
+{
+  "all_categories": [
+    "technology",
+    "business",
+    "health&fitness",
+    "education",
+    "true_crime",
+    "news&politics",
+    "comedy",
+    "sports",
+    "kids&family",
+    "arts",
+    "society&culture",
+    "history",
+    "fiction",
+    "religion&spirituality",
+    "leisure",
+    "government",
+    "music",
+    "science",
+    "tv&film"
+  ],
+  "category_rules": {
+    "technology": "technology",
+    "business": "business",
+    "health": "health&fitness",
+    "fitness": "health&fitness",
+    "health_&fitness": "health&fitness",
+    "health_&_fitness": "health&fitness",
+    "health&_fitness": "health&fitness",
+    "health&fitness": "health&fitness",
+    "education": "education",
+    "truecrime": "true_crime",
+    "true_crime": "true_crime",
+    "news": "news&politics",
+    "politics": "news&politics",
+    "news_&politics": "news&politics",
+    "news_&_politics": "news&politics",
+    "news&_politics": "news&politics",
+    "news&politics": "news&politics",
+    "comedy": "comedy",
+    "sports": "sports",
+    "kids": "kids&family",
+    "family": "kids&family",
+    "kids&_family": "kids&family",
+    "kids_&_family": "kids&family",
+    "kids_&family": "kids&family",
+    "kids&family": "kids&family",
+    "arts": "arts",
+    "society&_culture": "society&culture",
+    "society_&_culture": "society&culture",
+    "society_&culture": "society&culture",
+    "culture": "society&culture",
+    "society": "society&culture",
+    "society&culture": "society&culture",
+    "history": "history",
+    "fiction": "fiction",
+    "religion_&_spirituality": "religion&spirituality",
+    "religion&_spirituality": "religion&spirituality",
+    "religion_&spirituality": "religion&spirituality",
+    "spirituality": "religion&spirituality",
+    "religion": "religion&spirituality",
+    "religion&spirituality": "religion&spirituality",
+    "leisure": "leisure",
+    "government": "government",
+    "music": "music",
+    "science": "science",
+    "tv_&_film": "tv&film",
+    "tv_&film": "tv&film",
+    "tv&_film": "tv&film",
+    "film": "tv&film",
+    "tv": "tv&film",
+    "tv&film": "tv&film"
+  },
+  "avg_ad_price": {
+    "technology": {
+      "micro": {
+        "30s": "15,22",
+        "60s": "20,28"
+      },
+      "mid_tier": {
+        "30s": "22,28",
+        "60s": "28,35"
+      },
+      "large": {
+        "30s": "28,35",
+        "60s": "35,45"
+      }
+    },
+    "business": {
+      "micro": {
+        "30s": "14,20",
+        "60s": "18,25"
+      },
+      "mid_tier": {
+        "30s": "20,26",
+        "60s": "26,32"
+      },
+      "large": {
+        "30s": "26,32",
+        "60s": "32,40"
+      }
+    },
+    "health&fitness": {
+      "micro": {
+        "30s": "13,18",
+        "60s": "17,23"
+      },
+      "mid_tier": {
+        "30s": "18,24",
+        "60s": "24,30"
+      },
+      "large": {
+        "30s": "24,30",
+        "60s": "30,38"
+      }
+    },
+    "education": {
+      "micro": {
+        "30s": "12,17",
+        "60s": "16,22"
+      },
+      "mid_tier": {
+        "30s": "17,22",
+        "60s": "22,28"
+      },
+      "large": {
+        "30s": "22,28",
+        "60s": "28,35"
+      }
+    },
+    "true_crime": {
+      "micro": {
+        "30s": "11,16",
+        "60s": "15,21"
+      },
+      "mid_tier": {
+        "30s": "16,21",
+        "60s": "21,27"
+      },
+      "large": {
+        "30s": "21,27",
+        "60s": "27,34"
+      }
+    },
+    "news&politics": {
+      "micro": {
+        "30s": "10,15",
+        "60s": "14,20"
+      },
+      "mid_tier": {
+        "30s": "15,20",
+        "60s": "20,26"
+      },
+      "large": {
+        "30s": "20,26",
+        "60s": "26,33"
+      }
+    },
+    "comedy": {
+      "micro": {
+        "30s": "9,14",
+        "60s": "12,18"
+      },
+      "mid_tier": {
+        "30s": "14,19",
+        "60s": "19,25"
+      },
+      "large": {
+        "30s": "19,25",
+        "60s": "25,32"
+      }
+    },
+    "sports": {
+      "micro": {
+        "30s": "10,15",
+        "60s": "14,20"
+      },
+      "mid_tier": {
+        "30s": "15,20",
+        "60s": "20,26"
+      },
+      "large": {
+        "30s": "20,26",
+        "60s": "26,33"
+      }
+    },
+    "kids&family": {
+      "micro": {
+        "30s": "12,17",
+        "60s": "16,22"
+      },
+      "mid_tier": {
+        "30s": "17,22",
+        "60s": "22,28"
+      },
+      "large": {
+        "30s": "22,28",
+        "60s": "28,35"
+      }
+    },
+    "arts": {
+      "micro": {
+        "30s": "11,16",
+        "60s": "15,21"
+      },
+      "mid_tier": {
+        "30s": "16,21",
+        "60s": "21,27"
+      },
+      "large": {
+        "30s": "21,27",
+        "60s": "27,34"
+      }
+    },
+    "society&culture": {
+      "micro": {
+        "30s": "10,15",
+        "60s": "14,20"
+      },
+      "mid_tier": {
+        "30s": "15,20",
+        "60s": "20,26"
+      },
+      "large": {
+        "30s": "20,26",
+        "60s": "26,33"
+      }
+    },
+    "history": {
+      "micro": {
+        "30s": "11,16",
+        "60s": "15,21"
+      },
+      "mid_tier": {
+        "30s": "16,21",
+        "60s": "21,27"
+      },
+      "large": {
+        "30s": "21,27",
+        "60s": "27,34"
+      }
+    },
+    "fiction": {
+      "micro": {
+        "30s": "10,15",
+        "60s": "14,20"
+      },
+      "mid_tier": {
+        "30s": "15,20",
+        "60s": "20,26"
+      },
+      "large": {
+        "30s": "20,26",
+        "60s": "26,33"
+      }
+    },
+    "religion&spirituality": {
+      "micro": {
+        "30s": "9,14",
+        "60s": "12,18"
+      },
+      "mid_tier": {
+        "30s": "14,19",
+        "60s": "19,25"
+      },
+      "large": {
+        "30s": "19,25",
+        "60s": "25,32"
+      }
+    },
+    "leisure": {
+      "micro": {
+        "30s": "8,13",
+        "60s": "11,17"
+      },
+      "mid_tier": {
+        "30s": "13,18",
+        "60s": "18,24"
+      },
+      "large": {
+        "30s": "18,24",
+        "60s": "24,31"
+      }
+    },
+    "government": {
+      "micro": { "30s": "10,15", "60s": "14,20" },
+      "mid_tier": { "30s": "15,20", "60s": "20,26" },
+      "large": { "30s": "20,26", "60s": "26,33" }
+    },
+    "music": {
+      "micro": { "30s": "11,16", "60s": "15,21" },
+      "mid_tier": { "30s": "16,21", "60s": "21,27" },
+      "large": { "30s": "21,27", "60s": "27,34" }
+    },
+    "science": {
+      "micro": { "30s": "12,17", "60s": "16,22" },
+      "mid_tier": { "30s": "17,22", "60s": "22,28" },
+      "large": { "30s": "22,28", "60s": "28,35" }
+    },
+    "tv&film": {
+      "micro": { "30s": "11,16", "60s": "15,21" },
+      "mid_tier": { "30s": "16,21", "60s": "21,27" },
+      "large": { "30s": "21,27", "60s": "27,34" }
+    },
+    "unknown": {
+      "micro": { "30s": "11,16", "60s": "15,21" },
+      "mid_tier": { "30s": "16,21", "60s": "21,27" },
+      "large": { "30s": "21,27", "60s": "27,34" }
+    }
+  }
+}

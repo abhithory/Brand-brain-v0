@@ -1,0 +1,32 @@
+[
+  {
+    "sponsorName": "David Protein",
+    "startTime": 439.0,
+    "endTime": 513.0,
+    "domain": "davidprotein.com"
+  },
+  {
+    "sponsorName": "Eight Sleep",
+    "startTime": 515.0,
+    "endTime": 605.0,
+    "domain": "eightsleep.com"
+  },
+  {
+    "sponsorName": "AG1",
+    "startTime": 2867.0,
+    "endTime": 2957.0,
+    "domain": "drinkag1.com"
+  },
+  {
+    "sponsorName": "ROKA",
+    "startTime": 2964.0,
+    "endTime": 3064.0,
+    "domain": "roka.com"
+  },
+  {
+    "sponsorName": "Function",
+    "startTime": 4818.0,
+    "endTime": 4924.0,
+    "domain": "functionhealth.com"
+  }
+]
